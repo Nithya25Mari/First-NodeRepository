@@ -3,7 +3,7 @@ FROM node
 ENV NODE_VERSION stable
 ENV NPM_SCRIPT start
 ENV GIT_URL https://github.com/Nithya25Mari/sample.git
-ENV APP_PORT 3000
+ENV APP_PORT 8080
  
 ENV APP_HOME .
 ENV APP_STARTUP ""
