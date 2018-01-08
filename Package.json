@@ -1,0 +1,12 @@
+  "name": "dockerSample",
+  "version": "1.0.0",
+  "description": "Run Node.js on Docker",
+  "author": "NithyaMari <nitikishu25@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
